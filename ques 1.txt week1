@@ -5,19 +5,19 @@ SportClub
 City
 SportFeatures
 Membership
-Ragister_club
+Register_club
 Services
 Membership_plan
 method
-indhor game
-outdhor game
+indoor game
+outdoor game
 life time membership
 weekly------------------
-sorttuam
-montholy----------------
-tunament
-singal
-playeer id,name,gender,
+sortteam
+monthly----------------
+tournament
+signal
+player id,name,gender,
 static
 playersname,dob,gender
 dynamic
